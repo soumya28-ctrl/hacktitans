@@ -1,5 +1,5 @@
-Blockchain-Based Voting System with Integrated IoT Sensor Validation
-
+**Blockchain-Based Voting System with Integrated IoT Sensor Validation
+**
 This project demonstrates a decentralized, tamper-proof electronic voting system built on blockchain technology, with real-time IoT-based sensor integration for identity/authenticity validation. It is designed to enhance trust, transparency, and accessibility in modern democratic processes, especially for remote or high-risk zones.
 
 The IoT sensors can include:
